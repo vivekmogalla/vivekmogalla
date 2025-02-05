@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Vivek Mogalla</h1>
 <h3 align="center">Full Stack Web Developer || Django || Python || Javascript || PostgreSQL || Github</h3>
 
-<p> Hi there! a dedicated Full Stack Web developer and Python Programmer with over 4 years of hands-on experience in Application & Software Development Lifecycle Processs with specialization in Python development using Django Framework with front end skills in HTML, CSS, Javascript, Ajax from concept through delivery of next generation applications & customizable solutions</p>
+<p> Hi there! a dedicated Full Stack Web developer and Python Programmer with over 5 years of hands-on experience in Application & Software Development Lifecycle Processs with specialization in Python development using Django Framework with front end skills in HTML, CSS, Javascript, Ajax from concept through delivery of next generation applications & customizable solutions</p>
 
 <h3> What I Do </h3>
 Python Development:
@@ -48,7 +48,7 @@ Deployment & Version Control:
 Continuous Learning:
 
 
-<p>In my 4+ years journey, I've always believed in continous learning and adapting to new development challenges.</p><br>
+<p>In my 5+ years journey, I've always believed in continous learning and adapting to new development challenges.</p><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekmogalla&label=Profile%20views&color=0e75b6&style=flat" alt="vivekmogalla" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/vivekmogalla](https://github.com/vivekmogalla)
